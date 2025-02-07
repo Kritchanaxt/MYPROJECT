@@ -38,4 +38,20 @@ A modern iOS application for tracking cryptocurrency market trends.
 - 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1rMZvwNn4DxIyIW6-qU82KrZfug_l1d9z/view?usp=sharing)  
 
 ---
+
+
+## ☁️ Weather App  
+A simple and modern iOS application for checking weather conditions.
+
+### 📸 **Screenshots**
+<img src="https://github.com/Kritchanaxt/WeatherApp/blob/main/W1.png" width="346" />
+
+### 🚀 **Tech Stack**
+- 🖥 **Framework:** SwiftUI 
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [WeatherApp Repository](https://github.com/Kritchanaxt/WeatherApp)  
+- 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1iGug2-uPeTXKhuEsP5VBgI35J9cgtkFX/view?usp=sharing)  
+
+---
 ⭐️ *Feel free to contribute or check out my other projects!*  
