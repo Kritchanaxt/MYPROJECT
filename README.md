@@ -1,11 +1,16 @@
 # 📌 MY PROJECT  
-Repository for collecting past iOS work  
+Repository for collecting past iOS work 
+
+## 📖 Table of Contents  
+- [🛋 Furniture App](#-furniture-app)  
+- [🪙 Crypto App](#-crypto-app)  
+
 
 ## 🛋 Furniture App  
 A modern iOS application for discovering and purchasing luxury furniture.  
 
 ### 📸 **Screenshots**
-<img src="https://github.com/Kritchanaxt/FurnitureApp/blob/main/screenshots/home.png" width="346" />
+<img src="https://github.com/Kritchanaxt/CryptoApp/blob/main/C1.png" width="346" />
 
 ### 🚀 **Tech Stack**
 - 🖥 **Framework:** SwiftUI  
