@@ -26,7 +26,7 @@ A modern iOS application for discovering and purchasing luxury furniture.
 A modern iOS application for tracking cryptocurrency market trends.  
 
 ### 📸 **Screenshots**
-<img src="https://github.com/Kritchanaxt/CryptoApp/blob/main/screenshots/home.png" width="450" />
+<img src="https://github.com/Kritchanaxt/CryptoApp/blob/main/C1.png" width="450" />
 
 ### 🚀 **Tech Stack**
 - 🖥 **Framework:** SwiftUI + Combine  
