@@ -3,7 +3,7 @@ Repository for collecting past iOS work
 
 ## 📖 Table of Contents  
 - [🛋 Furniture App](#-furniture-app)  
-- [🪙 Crypto App](#-crypto-app)  
+- [🔐 Crypto App](#-crypto-app)  
 
 
 ## 🛋 Furniture App  
@@ -22,7 +22,7 @@ A modern iOS application for discovering and purchasing luxury furniture.
 
 ---
 
-## 🪙 Crypto App  
+## 🔐 Crypto App  
 A modern iOS application for tracking cryptocurrency market trends.  
 
 ### 📸 **Screenshots**
