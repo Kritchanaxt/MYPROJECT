@@ -10,7 +10,7 @@ Repository for collecting past iOS work
 A modern iOS application for discovering and purchasing luxury furniture.  
 
 ### 📸 **Screenshots**
-<img src="https://github.com/Kritchanaxt/CryptoApp/blob/main/C1.png" width="346" />
+<img src="https://github.com/Kritchanaxt/FurnitureApp/blob/main/F1.png" width="346" />
 
 ### 🚀 **Tech Stack**
 - 🖥 **Framework:** SwiftUI  
