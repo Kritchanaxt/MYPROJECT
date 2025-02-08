@@ -54,4 +54,26 @@ A simple and modern iOS application for checking weather conditions.
 - 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1iGug2-uPeTXKhuEsP5VBgI35J9cgtkFX/view?usp=sharing)  
 
 ---
+
+## 🚀 Practice-SwiftfulRouting  
+A SwiftUI practice project focused on navigation and routing in iOS applications.  
+
+### 📸 **Screenshots**  
+<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/B1.png" width="300" />  
+<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/N1.png" width="300" />  
+<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/S1.png" width="300" />  
+
+### 🚀 **Tech Stack**  
+- 🖥 **Framework:** SwiftUI + Combine  
+- 🔗 **APIs Used:**  
+  - [DummyJSON Users](https://dummyjson.com/users)  
+  - [DummyJSON Products](https://dummyjson.com/products)  
+  - [Picsum Photos](https://picsum.photos)  
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [SwiftfulRouting Repository](https://github.com/Kritchanaxt/SwiftUIinPractice)  
+- 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1iBKlEBSM7lEl0l9nKzXg3uI-ndQIsMRq/view?usp=share_link)  
+
+---
+
 ⭐️ *Feel free to contribute or check out my other projects!*  
