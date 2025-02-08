@@ -39,7 +39,6 @@ A modern iOS application for tracking cryptocurrency market trends.
 
 ---
 
-
 ## ☁️ Weather App  
 A simple and modern iOS application for checking weather conditions.
 
@@ -74,4 +73,21 @@ A SwiftUI practice project focused on navigation and routing in iOS applications
 
 ---
 
+## 🔥 Firebase Authentication  
+A simple and modern iOS application for user authentication using Firebase.  
+
+### 📸 **Screenshots**  
+<img src="https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/blob/main/R1.png" width="310" /> <img src="https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/blob/main/FA1.png" width="310" />  
+
+### 🚀 **Tech Stack**  
+- 🖥 **Framework:** SwiftUI + Combine  
+- 🔥 **Backend:** Firebase Authentication  
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [Firebase Repository](https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/tree/main)  
+- 🎥 **Demo Video:**  
+  - [Main Demo](https://drive.google.com/file/d/1jnUrLV7zZVINWNtqt0C881nBxaIFrZPm/view?usp=sharing)  
+  - [Additional Demo](https://drive.google.com/file/d/1bdbEY3V1If0beRNMyNSRNbep6RQLCCr_/view?usp=sharing)  
+
+---
 ⭐️ *Feel free to contribute or check out my other projects!*  
