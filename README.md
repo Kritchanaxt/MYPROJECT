@@ -82,7 +82,7 @@ A simple and modern iOS application for user authentication using Firebase.
 
 ### 🚀 **Tech Stack**  
 - 🖥 **Framework:** SwiftUI + Combine  
-- 🔥 **Backend:** Firebase Authentication  
+- ⚙️ **Backend:** Firebase Authentication  
 
 ### 🔗 **Links**  
 - 📂 **Source Code:** [Firebase Repository](https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/tree/main)  
