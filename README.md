@@ -4,21 +4,21 @@
 
 ## **📖 Table of Contents**
 
-•  [🛋 Furniture App](#-furniture-app)
+  - [🛋 Furniture App](#-furniture-app)
 
-•  [🔐 Crypto App](#-crypto-app)
+  -  [🔐 Crypto App](#-crypto-app)
 
-•  [☁️ Weather App](#-weather-app)
+  -  [☁️ Weather App](#-weather-app)
 
-•  [🚀 Practice-SwiftfulRouting](#-practice-swiftfulrouting)
+  -  [🚀 Practice-SwiftfulRouting](#-practice-swiftfulrouting)
 
-•  [🔥 Firebase Authentication](#-firebase-authentication)
+  -  [🔥 Firebase Authentication](#-firebase-authentication)
 
-•  [🎮 Pokedex App](#-pokedex-app)
+  -  [🎮 Pokedex App](#-pokedex-app)
 
-•  [🗺 Map App](#-map-app)
+  -  [🗺 Map App](#-map-app)
 
-•  [✅ TodoList App](#-todolist-app)
+  -  [✅ TodoList App](#-todolist-app)
 
 ---
 ###  🛋 Furniture App (2025)
@@ -32,23 +32,23 @@ A modern iOS application for discovering and purchasing luxury furniture.
 
    - **Framework:**  SwiftUI
 
-•  **Testing:**  XCTest
+   - **Testing:**  XCTest
 
 #### **💡 Features**
 
-•  Browse and search for furniture by categories
+   -  Browse and search for furniture by categories
 
-•  View furniture details including price, dimensions, and description
+   -  View furniture details including price, dimensions, and description
 
-•  Add items to the shopping cart
+   -  Add items to the shopping cart
 
-•  Checkout process with user-friendly UI
+   -  Checkout process with user-friendly UI
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
+   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
 
 ---
 ### **🔐 Crypto App** (2024)
@@ -61,27 +61,27 @@ A modern iOS application for tracking cryptocurrency market trends.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI + Combine
+   -  **Framework:**  SwiftUI + Combine
 
-•  **API:**  [CoinGecko](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=true&price_change_percentage=24h)
+   -  **API:**  [CoinGecko](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=true&price_change_percentage=24h)
 
-•  **Database:**  Core Data
+   -  **Database:**  Core Data
 
 #### **💡 Features**
 
-•  Real-time price tracking for multiple cryptocurrencies
+   -  Real-time price tracking for multiple cryptocurrencies
 
-•  View historical price charts
+   -  View historical price charts
 
-•  Filter and sort coins by market cap, volume, or price
+   -  Filter and sort coins by market cap, volume, or price
 
-•  User authentication with Firebase
+   -  User authentication with Firebase
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/CryptoApp)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/CryptoApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1rMZvwNn4DxIyIW6-qU82KrZfug_l1d9z/view?usp=sharing)
+   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1rMZvwNn4DxIyIW6-qU82KrZfug_l1d9z/view?usp=sharing)
 
 --- 
 ### **☁️ Weather App** (2024)
@@ -94,24 +94,24 @@ A simple and modern iOS application for checking weather conditions.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI
+   -  **Framework:**  SwiftUI
 
   
 #### **💡 Features**
 
-•  Current weather conditions including temperature, humidity, and wind speed
+   -  Current weather conditions including temperature, humidity, and wind speed
 
-•  Search for weather by city name
+   -  Search for weather by city name
 
-•  Hourly and daily forecasts
+   -  Hourly and daily forecasts
 
-•  Background updates for real-time data
+   -  Background updates for real-time data
 
 **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/WeatherApp)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/WeatherApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1iGug2-uPeTXKhuEsP5VBgI35J9cgtkFX/view?usp=sharing)
+   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1iGug2-uPeTXKhuEsP5VBgI35J9cgtkFX/view?usp=sharing)
 
 ---
 ### **🚀 Practice-SwiftfulRouting** (2024)
@@ -126,31 +126,31 @@ A SwiftUI practice project focused on navigation and routing in iOS applications
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI + Combine
+   -  **Framework:**  SwiftUI + Combine
 
-• **APIs Used:**
+   - **APIs Used:**
 
-•  [DummyJSON Users](https://dummyjson.com/users)
+   -  [DummyJSON Users](https://dummyjson.com/users)
 
-•  [DummyJSON Products](https://dummyjson.com/products)
+   -  [DummyJSON Products](https://dummyjson.com/products)
 
-•  [Picsum Photos](https://picsum.photos/)
+   -  [Picsum Photos](https://picsum.photos/)
 
 #### **💡 Features**
 
-•  Implemented deep linking and navigation with SwiftUI
+   -  Implemented deep linking and navigation with SwiftUI
 
-•  Show detailed user and product information
+   -  Show detailed user and product information
 
-•  Integrated external images and links for each item
+   -  Integrated external images and links for each item
 
-•  Simple and dynamic routing system
+   -  Simple and dynamic routing system
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/SwiftUIinPractice)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/SwiftUIinPractice)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1iBKlEBSM7lEl0l9nKzXg3uI-ndQIsMRq/view?usp=share_link)
+   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1iBKlEBSM7lEl0l9nKzXg3uI-ndQIsMRq/view?usp=share_link)
 
 ---
 ### **🔥 Firebase Authentication**  (2024)
@@ -164,28 +164,28 @@ A simple and modern iOS application for user authentication using Firebase.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI + Combine
+   -  **Framework:**  SwiftUI + Combine
 
-•  **Backend:**  Firebase Authentication
+   -  **Backend:**  Firebase Authentication
 
 #### **💡 Features**
 
-•  User sign-in with email and password
+   -  User sign-in with email and password
 
-•  User sign-up with validation and error handling
+   -  User sign-up with validation and error handling
 
-•  Real-time user session tracking
+   -  Real-time user session tracking
 
-•  User logout functionality
+   -  User logout functionality
 
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/tree/main)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/tree/main)
 
-•  🎥  [**Main Demo**](https://drive.google.com/file/d/1jnUrLV7zZVINWNtqt0C881nBxaIFrZPm/view?usp=sharing)
+   -  🎥  [**Main Demo**](https://drive.google.com/file/d/1jnUrLV7zZVINWNtqt0C881nBxaIFrZPm/view?usp=sharing)
 
-•  🎥  [**Additional Demo**](https://drive.google.com/file/d/1bdbEY3V1If0beRNMyNSRNbep6RQLCCr_/view?usp=sharing)
+   -  🎥  [**Additional Demo**](https://drive.google.com/file/d/1bdbEY3V1If0beRNMyNSRNbep6RQLCCr_/view?usp=sharing)
 
 ---
 ### **🎮 Pokedex App**  (2024)
@@ -198,31 +198,31 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI + Combine
+   -  **Framework:**  SwiftUI + Combine
 
-•  **API:**  [PokéAPI](https://pokeapi.co/api/v2/pokemon/1/)
+   -  **API:**  [PokéAPI](https://pokeapi.co/api/v2/pokemon/1/)
 
 
 #### **💡 Features**
 
-•  Search and view details for any Pokémon
+   -  Search and view details for any Pokémon
 
-•  Show abilities, stats, and types of Pokémon
+   -  Show abilities, stats, and types of Pokémon
 
-•  View images of each Pokémon
+   -  View images of each Pokémon
 
-•  Dynamic loading of data via API
+   -  Dynamic loading of data via API
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/PokedexApp)
+   -  📂  [**Source Code**](https://github.com/Kritchanaxt/PokedexApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/14SVPxVItkKUInWAAg3lNDHdeLP92D0sL/view?usp=sharing)
+   -  🎥  [**Demo Video**](https://drive.google.com/file/d/14SVPxVItkKUInWAAg3lNDHdeLP92D0sL/view?usp=sharing)
 
 ---
 ### **🗺 Map App**  (2023)
 
-  A modern iOS application for exploring famous landmarks around the world.
+A modern iOS application for exploring famous landmarks around the world.
   
 #### **📸 Screenshots**
 <img src="https://github.com/Kritchanaxt/MapApp/blob/main/M1.png" width="346" />  
@@ -230,15 +230,15 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI + MapKit
+   -  **Framework:**  SwiftUI + MapKit
+  
+   - **Features:**
 
-• **Features:**
+      -  Display famous landmarks on an interactive map
 
-•  Display famous landmarks on an interactive map
+      -  Learn about historical sites with Wikipedia links
 
-•  Learn about historical sites with Wikipedia links
-
-• **API & Resources:**
+   - **API & Resources:**
 
 •  [MapKit](https://developer.apple.com/documentation/mapkit)
 
