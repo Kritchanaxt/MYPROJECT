@@ -46,9 +46,9 @@ A modern iOS application for discovering and purchasing luxury furniture.
 
 #### **🔗 Links**
 
-     -  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
+  -  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
 
-     -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
+  -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
 
 ---
 ### **🔐 Crypto App** (2024)
@@ -255,9 +255,9 @@ A modern iOS application for exploring famous landmarks around the world.
 
 #### **🔗 Links**
 
-     -  📂  [**Source Code**](https://github.com/Kritchanaxt/MapApp)
+  -  📂  [**Source Code**](https://github.com/Kritchanaxt/MapApp)
 
-    -  🎥  [**Demo Video**](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)
+  -  🎥  [**Demo Video**](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)
 
 ---
 ### **✅ TodoList App** (2023)
@@ -271,31 +271,23 @@ A simple and modern iOS application for managing daily tasks efficiently.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI
-
-• **Features:**
-
-•  Add, edit, and delete tasks
-
-•  Mark tasks as completed
-
-•  User-friendly and minimalist design
-
+  -  **Framework:**  SwiftUI
+    
 
 #### **💡 Features**
 
-•  Simple and easy task management system
+  -  Add, edit, and delete tasks
 
-•  Sync tasks across devices
+  -  Mark tasks as completed
 
-•  Organize tasks by deadlines or categories
+  -  User-friendly and minimalist design
 
-•  Push notifications for reminders
+
 
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/TodoListApp)
+  -  📂  [**Source Code**](https://github.com/Kritchanaxt/TodoListApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1guEPgIGyeG9orvaaO5tHg9NgSSbexXjL/view?usp=sharing)
+  -  🎥  [**Demo Video**](https://drive.google.com/file/d/1guEPgIGyeG9orvaaO5tHg9NgSSbexXjL/view?usp=sharing)
 
 
