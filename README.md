@@ -117,7 +117,7 @@ A modern iOS application for exploring famous landmarks around the world.
 
 ### 🚀 **Tech Stack**  
 - 🖥 **Framework:** SwiftUI + MapKit  
-- 🌍 **Features:**  
+- 📌 **Features:**  
   - Display famous landmarks on an interactive map  
   - Learn about historical sites with Wikipedia links
 - 🌐 **API & Resources:**  
@@ -134,6 +134,23 @@ A modern iOS application for exploring famous landmarks around the world.
 
 ---
 
-⭐️ *Feel free to contribute or check out my other projects!*  
+## ✅ TodoList App  
+A simple and modern iOS application for managing daily tasks efficiently.  
+
+### 📸 **Screenshots**  
+<img src="https://github.com/Kritchanaxt/TodoListApp/blob/main/T1.png" width="346" />  
+
+### 🚀 **Tech Stack**  
+- 🖥 **Framework:** SwiftUI  
+- 📌 **Features:**  
+  - Add, edit, and delete tasks  
+  - Mark tasks as completed  
+  - User-friendly and minimalist design  
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [TodoListApp Repository](https://github.com/Kritchanaxt/TodoListApp)  
+- 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1guEPgIGyeG9orvaaO5tHg9NgSSbexXjL/view?usp=sharing)  
+
+---
 
 ⭐️ *Feel free to contribute or check out my other projects!*  
