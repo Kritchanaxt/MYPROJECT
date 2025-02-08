@@ -108,5 +108,32 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
 
 ---
 
+
+## 🗺 Map App  
+A modern iOS application for exploring famous landmarks around the world.  
+
+### 📸 **Screenshots**  
+<img src="https://github.com/Kritchanaxt/MapApp/blob/main/M1.png" width="346" />  
+
+### 🚀 **Tech Stack**  
+- 🖥 **Framework:** SwiftUI + MapKit  
+- 🌍 **Features:**  
+  - Display famous landmarks on an interactive map  
+  - Learn about historical sites with Wikipedia links
+- 🌐 **API & Resources:**  
+  - [MapKit](https://developer.apple.com/documentation/mapkit)  
+  - [Colosseum](https://en.wikipedia.org/wiki/Colosseum)  
+  - [Pantheon, Rome](https://en.wikipedia.org/wiki/Pantheon,_Rome)  
+  - [Trevi Fountain](https://en.wikipedia.org/wiki/Trevi_Fountain)  
+  - [Eiffel Tower](https://en.wikipedia.org/wiki/Eiffel_Tower)  
+  - [Louvre Museum](https://en.wikipedia.org/wiki/Louvre)  
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [MapApp Repository](https://github.com/Kritchanaxt/MapApp)  
+- 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)  
+
+---
+
 ⭐️ *Feel free to contribute or check out my other projects!*  
+
 ⭐️ *Feel free to contribute or check out my other projects!*  
