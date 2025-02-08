@@ -59,9 +59,7 @@ A simple and modern iOS application for checking weather conditions.
 A SwiftUI practice project focused on navigation and routing in iOS applications.  
 
 ### 📸 **Screenshots**  
-<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/B1.png" width="300" />  
-<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/N1.png" width="300" />  
-<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/S1.png" width="300" />  
+<img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/B1.png" width="300" /> <img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/N1.png" width="300" /> <img src="https://github.com/Kritchanaxt/SwiftUIinPractice/blob/main/S1.png" width="300" />  
 
 ### 🚀 **Tech Stack**  
 - 🖥 **Framework:** SwiftUI + Combine  
