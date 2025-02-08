@@ -51,8 +51,7 @@ A modern iOS application for discovering and purchasing luxury furniture.
   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
 
 ---
-### **🔐 Crypto App** (2024)
-
+### **🔐 Crypto App** 
 A modern iOS application for tracking cryptocurrency market trends.
 
 #### **📸 Screenshots**
@@ -75,8 +74,6 @@ A modern iOS application for tracking cryptocurrency market trends.
 
    -  Filter and sort coins by market cap, volume, or price
 
-   -  User authentication with Firebase
-
 #### **🔗 Links**
 
    -  📂  [**Source Code**](https://github.com/Kritchanaxt/CryptoApp)
@@ -84,7 +81,7 @@ A modern iOS application for tracking cryptocurrency market trends.
    -  🎥  [**Demo Video**](https://drive.google.com/file/d/1rMZvwNn4DxIyIW6-qU82KrZfug_l1d9z/view?usp=sharing)
 
 --- 
-### **☁️ Weather App** (2024)
+### **☁️ Weather App** 
 
 A simple and modern iOS application for checking weather conditions.
 
@@ -103,10 +100,6 @@ A simple and modern iOS application for checking weather conditions.
 
    -  Search for weather by city name
 
-   -  Hourly and daily forecasts
-
-   -  Background updates for real-time data
-
 **🔗 Links**
 
    -  📂  [**Source Code**](https://github.com/Kritchanaxt/WeatherApp)
@@ -114,7 +107,7 @@ A simple and modern iOS application for checking weather conditions.
    -  🎥  [**Demo Video**](https://drive.google.com/file/d/1iGug2-uPeTXKhuEsP5VBgI35J9cgtkFX/view?usp=sharing)
 
 ---
-### **🚀 Practice-SwiftfulRouting** (2024)
+### **🚀 Practice-SwiftfulRouting** 
 
 A SwiftUI practice project focused on navigation and routing in iOS applications.
 
@@ -153,7 +146,7 @@ A SwiftUI practice project focused on navigation and routing in iOS applications
    -  🎥  [**Demo Video**](https://drive.google.com/file/d/1iBKlEBSM7lEl0l9nKzXg3uI-ndQIsMRq/view?usp=share_link)
 
 ---
-### **🔥 Firebase Authentication**  (2024)
+### **🔥 Firebase Authentication** 
 
 A simple and modern iOS application for user authentication using Firebase.
 
@@ -188,7 +181,7 @@ A simple and modern iOS application for user authentication using Firebase.
    -  🎥  [**Additional Demo**](https://drive.google.com/file/d/1bdbEY3V1If0beRNMyNSRNbep6RQLCCr_/view?usp=sharing)
 
 ---
-### **🎮 Pokedex App**  (2024)
+### **🎮 Pokedex App** 
 
 A modern iOS application for exploring Pokémon details, stats, and abilities.
  
@@ -207,8 +200,6 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
 
    -  Search and view details for any Pokémon
 
-   -  Show abilities, stats, and types of Pokémon
-
    -  View images of each Pokémon
 
    -  Dynamic loading of data via API
@@ -220,7 +211,7 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
    -  🎥  [**Demo Video**](https://drive.google.com/file/d/14SVPxVItkKUInWAAg3lNDHdeLP92D0sL/view?usp=sharing)
 
 ---
-### **🗺 Map App**  (2023)
+### **🗺 Map App** 
 
 A modern iOS application for exploring famous landmarks around the world.
   
@@ -260,7 +251,7 @@ A modern iOS application for exploring famous landmarks around the world.
   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)
 
 ---
-### **✅ TodoList App** (2023)
+### **✅ TodoList App** 
 
 A simple and modern iOS application for managing daily tasks efficiently.
 
@@ -280,7 +271,6 @@ A simple and modern iOS application for managing daily tasks efficiently.
 
   -  Mark tasks as completed
 
-  -  User-friendly and minimalist design
 
 
 
