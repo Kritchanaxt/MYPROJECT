@@ -21,7 +21,7 @@
   -  [✅ TodoList App](#-todolist-app)
 
 ---
-###  🛋 Furniture App (2025)
+###  🛋 Furniture App 
 
 A modern iOS application for discovering and purchasing luxury furniture.
 
