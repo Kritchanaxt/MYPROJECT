@@ -46,9 +46,9 @@ A modern iOS application for discovering and purchasing luxury furniture.
 
 #### **🔗 Links**
 
-   -  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
+     -  📂  [**Source Code**](https://github.com/Kritchanaxt/FurnitureApp)
 
-   -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
+     -  🎥  [**Demo Video**](https://drive.google.com/file/d/1zub2OBV3NWmmhoHLr_U-ya0jkWYNCv7T/view?usp=share_link)
 
 ---
 ### **🔐 Crypto App** (2024)
@@ -130,11 +130,11 @@ A SwiftUI practice project focused on navigation and routing in iOS applications
 
    - **APIs Used:**
 
-   -  [DummyJSON Users](https://dummyjson.com/users)
+      -  [DummyJSON Users](https://dummyjson.com/users)
 
-   -  [DummyJSON Products](https://dummyjson.com/products)
+      -  [DummyJSON Products](https://dummyjson.com/products)
 
-   -  [Picsum Photos](https://picsum.photos/)
+      -  [Picsum Photos](https://picsum.photos/)
 
 #### **💡 Features**
 
@@ -232,32 +232,32 @@ A modern iOS application for exploring famous landmarks around the world.
 
    -  **Framework:**  SwiftUI + MapKit
   
-   - **Features:**
-
-      -  Display famous landmarks on an interactive map
-
-      -  Learn about historical sites with Wikipedia links
-
    - **API & Resources:**
 
-•  [MapKit](https://developer.apple.com/documentation/mapkit)
+     -  [MapKit](https://developer.apple.com/documentation/mapkit)
 
-•  [Colosseum](https://en.wikipedia.org/wiki/Colosseum)
+     -  [Colosseum](https://en.wikipedia.org/wiki/Colosseum)
 
-•  [Pantheon, Rome](https://en.wikipedia.org/wiki/Pantheon,_Rome)
+     -  [Pantheon, Rome](https://en.wikipedia.org/wiki/Pantheon,_Rome)
 
-•  [Trevi Fountain](https://en.wikipedia.org/wiki/Trevi_Fountain)
+     -  [Trevi Fountain](https://en.wikipedia.org/wiki/Trevi_Fountain)
 
-•  [Eiffel Tower](https://en.wikipedia.org/wiki/Eiffel_Tower)
+     -  [Eiffel Tower](https://en.wikipedia.org/wiki/Eiffel_Tower)
 
-•  [Louvre Museum](https://en.wikipedia.org/wiki/Louvre)
+     -  [Louvre Museum](https://en.wikipedia.org/wiki/Louvre)
 
- 
+#### **💡 Features**
+
+  -  Display famous landmarks on an interactive map
+
+  -  Learn about historical sites with Wikipedia links
+
+
 #### **🔗 Links**
 
-•  📂  [**Source Code**](https://github.com/Kritchanaxt/MapApp)
+     -  📂  [**Source Code**](https://github.com/Kritchanaxt/MapApp)
 
-•  🎥  [**Demo Video**](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)
+    -  🎥  [**Demo Video**](https://drive.google.com/file/d/1XSLWfiiUQtrGFGTW-rvSVyxMPj9CPcr5/view?usp=sharing)
 
 ---
 ### **✅ TodoList App** (2023)
