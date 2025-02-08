@@ -30,9 +30,9 @@ A modern iOS application for discovering and purchasing luxury furniture.
 
 #### **🚀 Tech Stack**
 
-•  **Framework:**  SwiftUI
+   •  **Framework:**  SwiftUI
 
-•  **Testing:**  XCTest
+   •  **Testing:**  XCTest
 
 #### **💡 Features**
 
