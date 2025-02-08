@@ -91,4 +91,23 @@ A simple and modern iOS application for user authentication using Firebase.
   - [Additional Demo](https://drive.google.com/file/d/1bdbEY3V1If0beRNMyNSRNbep6RQLCCr_/view?usp=sharing)  
 
 ---
+
+## 🎮 Pokedex App  
+A modern iOS application for exploring Pokémon details, stats, and abilities.  
+
+### 📸 **Screenshots**  
+<img src="https://github.com/Kritchanaxt/PokedexApp/blob/main/P1.png" width="346" />  
+
+### 🚀 **Tech Stack**  
+- 🖥 **Framework:** SwiftUI + Combine  
+- 🌐 **API:** [PokéAPI](https://pokeapi.co/)  
+- 🖼 **Sprite Assets:** [Pokémon Sprites](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/)  
+
+### 🔗 **Links**  
+- 📂 **Source Code:** [PokedexApp Repository](https://github.com/Kritchanaxt/PokedexApp)  
+- 🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/14SVPxVItkKUInWAAg3lNDHdeLP92D0sL/view?usp=sharing)  
+
+---
+
+⭐️ *Feel free to contribute or check out my other projects!*  
 ⭐️ *Feel free to contribute or check out my other projects!*  
