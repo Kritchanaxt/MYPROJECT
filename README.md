@@ -30,7 +30,7 @@ A modern iOS application for tracking cryptocurrency market trends.
 
 ### 🚀 **Tech Stack**
 - 🖥 **Framework:** SwiftUI + Combine  
-- 🔗 **API:** [CoinGecko](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=true&price_change_percentage=24h)  
+- 🌐 **API:** [CoinGecko](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=true&price_change_percentage=24h)  
 - 💾 **Database:** Core Data  
 
 ### 🔗 **Links**  
@@ -62,7 +62,7 @@ A SwiftUI practice project focused on navigation and routing in iOS applications
 
 ### 🚀 **Tech Stack**  
 - 🖥 **Framework:** SwiftUI + Combine  
-- 🔗 **APIs Used:**  
+- 🌐 **APIs Used:**  
   - [DummyJSON Users](https://dummyjson.com/users)  
   - [DummyJSON Products](https://dummyjson.com/products)  
   - [Picsum Photos](https://picsum.photos)  
@@ -100,8 +100,7 @@ A modern iOS application for exploring Pokémon details, stats, and abilities.
 
 ### 🚀 **Tech Stack**  
 - 🖥 **Framework:** SwiftUI + Combine  
-- 🌐 **API:** [PokéAPI](https://pokeapi.co/)  
-- 🖼 **Sprite Assets:** [Pokémon Sprites](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/)  
+- 🌐 **API:** [PokéAPI](https://pokeapi.co/api/v2/pokemon/1/)  
 
 ### 🔗 **Links**  
 - 📂 **Source Code:** [PokedexApp Repository](https://github.com/Kritchanaxt/PokedexApp)  
