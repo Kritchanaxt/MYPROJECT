@@ -151,7 +151,7 @@ A simple and modern iOS application for user authentication using Firebase.
 #### **📸 Screenshots**
 
 <img src="https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/blob/main/R1.png" width="310" />  
-<img src="https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/blob/main/FA1.png" width="800" height="400" />  
+<img src="https://github.com/Kritchanaxt/Firebase-SwiftUI-Bootcamp/blob/main/FA1.png" width="800" height="500" />  
 
 #### **🚀 Tech Stack**
 
